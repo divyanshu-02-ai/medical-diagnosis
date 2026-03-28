@@ -1,0 +1,2 @@
+Patient_ID,Symptoms,Disease_1,Confidence_1,Disease_2,Confidence_2,Disease_3,Confidence_3,Date_Time
+1,cough,Flu,0.85,Cold,0.1,Allergy,0.05,2026-03-28 12:20:10
